@@ -15,7 +15,7 @@ Advice to finding a mentor:
 ## Types of software testing
 
 - Unit Testing - testing small units in **isolation**
-- Integratuib Testing - testing a set of units which work together.
+- Integration Testing - testing a set of units which work together.
 - Functional/Scenario Testing - test application as a whole against requirements or scenarios.
 - Performance Testing
 - Stress Testing - to find out where it breaks.
@@ -59,4 +59,61 @@ Advice to finding a mentor:
 
 > Check aws educate to learn more about cloud computing.
 
+
+# Tech CV Workshop
+
+## General CV Tips 
+- PDF Format
+- Clean, simple, consistent, bullet-pointed
+- Action words + metrics = results + impact
+- Contact Information
+- "References upon request"
+
+## Deep Dive
+
+### Education
+
+- Degree(s) + specialisms.
+- Graduation date (month and year).
+- Grades.
+- List key courses.
+- Provide a brief description of any important projects.
+- Technical Skills (in order of proficiency).
+
+### Experience
+
+- Reverse chronological order + showcase all experience
+- Highlight accomplishments
+- Include: Employer, Position, Dates Emplyed
+- Results for:
+    - Internship
+    - Academic Research and/or project work.
+    - Open source experience
+    - Mobile app + web development.
+- First and second years:
+    - Student Organizations
+    - Hackathon
+    - Coding competitions
+    - Class projects
+- Accomplished [X], as measured by [Y], by doing [Z].
+
+### Extracurricular Interests, Honours and Awards
+
+- What sets you apart?
+- Student Groups
+- Placement in coding, programmind or tech related competitions,
+- Conference Presentation
+- University Honours, Awards or Scholarships.
+- Impressive achievements or activities in areas outside of Tech.
+- Publications, Papers or Patents.
+
+## Resources
+
+- Google's Tech Dev Guide
+    - g.co/techdevguide
+- "Google Students" YouTube Channel
+- Additional Resources
+    - g.co/buildyourfuture
+    - g.co/virtualcareerfair
+    - goo.gle/BrightNetwork
 
