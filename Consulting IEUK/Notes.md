@@ -36,10 +36,10 @@ A project plan oitlines all the activieis needed in order to successfully delive
 
 ## RACI
 
-- R: Responsible (who is gonna be doing the doing)
-- A: Accountable (who makes the decision of when the doing is done)
-- C: Consulted (which roles need to be asked about/involved in the activity)
-- I: Informed
+- R: Responsible (who is gonna be doing the doing) - "the doer"
+- A: Accountable (who makes the decision of when the doing is done) - "the Buck stops here"
+- C: Consulted (which roles need to be asked about/involved in the activity) - "in the Loop"
+- I: Informed - "kept in the picture"
 
 ### Best Practice
 - For each activity, at least one person responsible.
@@ -48,3 +48,12 @@ A project plan oitlines all the activieis needed in order to successfully delive
 - Inform people of their roles and responsibility.
 - Ensure those accountable have the authority to do so.
 - Ensure toles do not have too many responsibilities.
+
+## Skills looked for
+
+- Whole Leadership
+- Business acumen
+- Technical Capabilities
+- Global acumen
+- Relationships
+
